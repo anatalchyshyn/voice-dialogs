@@ -1,0 +1,9 @@
+pypdf
+tesseract-ocr
+pytesseract
+openai
+soundfile 
+transformers 
+datasets 
+sentencepiece
+pydub
